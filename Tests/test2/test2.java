@@ -1,4 +1,4 @@
-package test2;
+package Tests.test2;
 
  class test2 {
     static int age;
