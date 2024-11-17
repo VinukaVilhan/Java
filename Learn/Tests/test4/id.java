@@ -1,4 +1,4 @@
-package Tests.test4;
+package Learn.Tests.test4;
 
 public class id {
     public static void main(String[] args)

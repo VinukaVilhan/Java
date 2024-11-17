@@ -1,4 +1,4 @@
-package dataTypes;
+package Learn.dataTypes;
 
 public class dataTypes 
 {

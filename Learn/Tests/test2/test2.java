@@ -1,4 +1,4 @@
-package Tests.test2;
+package Learn.Tests.test2;
 
  class test2 {
     static int age;

@@ -1,4 +1,4 @@
-package Tests.test1;
+package Learn.Tests.test1;
 
 class Test 
 {

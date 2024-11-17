@@ -1,4 +1,4 @@
-package Tests.test;
+package Learn.Tests.test;
 class Main
 {
     public static void main(String[] args)
