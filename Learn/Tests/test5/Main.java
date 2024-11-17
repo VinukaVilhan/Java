@@ -12,6 +12,9 @@ class Author
         this.nationality = nationality;
     }
 
+    // default constructor
+    Author(){}
+
     // display author
     public void displayInfo()
     {
@@ -29,6 +32,12 @@ class Author
     {
         this.nationality = nationality;
     }
+
+    // display message
+    protected void displayMessage()
+    {
+        System.out.println("This is a protected method in Author class");
+    }
 }
 
 public class Main {
@@ -43,6 +52,8 @@ public class Main {
         // modify the author details
         author1.setNationality("Sri Lanka");
         System.out.println("Updated Nationality: " + author1.getNationality());
+
+        author1.displayMessage();
 
     }
 }
