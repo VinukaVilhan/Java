@@ -22,7 +22,7 @@ class Student{
         this.name = name;
         this.age = age;
         this.id = id;
-        this.university_name = university_name;
+        Student.university_name = university_name;
         num_of_students++;
     }
 

@@ -2,7 +2,7 @@ package Learn.Loops;
 
 public class whileLoop {
     public static void main(String[] args) {
-        int number = 10;
+        // int number = 10;
 
         int mul = 2;
 

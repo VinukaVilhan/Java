@@ -13,7 +13,7 @@ class Vehicle
 
 class Car extends Vehicle
 {
-    private String modelName = "Mustang";
+    private final String modelName = "Mustang";
 
     // get method to get model name
     public String getModelName()
