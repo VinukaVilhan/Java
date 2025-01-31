@@ -1,5 +1,3 @@
-package Learn.TypeCast;
-
 public class tc {
     public static void main(String[] args) {
         {
