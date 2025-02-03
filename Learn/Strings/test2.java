@@ -1,5 +1,3 @@
-package Learn.Strings;
-
 public class test2{
     public static void main(String[] args){
         String name ="vinuka fernandopulle";
