@@ -8,7 +8,7 @@ public class Db {
             System.out.println("JDBC Driver loaded successfully!");
 
             // Establish connection
-            Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/java_db", "root", "Vinuka@cr7");
+            Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/java_db", "", "");
 
             // Query execution
             String query = "SELECT * FROM User";
